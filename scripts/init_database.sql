@@ -4,6 +4,9 @@ Creating Database and Schemas --
 Create new Database named 'DataWarehouse' after checking if it already exists. If it exists, then drop and recreate.
 Aditionally the scripts sets up 3 schemas - bronze, silver, gold
 --------------------------------------------------------------------------------------------------
+
+Warning:
+Database will be dimped, so need to have proper backups 
 */
 
 -- Start of the Code
